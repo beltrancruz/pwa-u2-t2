@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    background: #eeeeee;
+}
+
+#camera-container{
+    background: #c9c9c9;
+    border: #b4b4b4 solid;
+    width: 20em;
+    height: 20em;
+}
+
+.btn-group-vertical{
+    width: 20em;
+}
+
+.btn:focus{
+    outline-color: initial !important;
+    outline-style: initial !important;
+    outline-width: 0px !important;
+    box-shadow: 0 0 0 0.25rem rgb(163 112 247 / 25%) !important;
+}
+
+.txt-p2{
+    color: #2C1A4D;
+}
+
+.txt-p1{
+    color: #A370F7;
+}
+
+.bg-p1{
+    background: #A370F7;
+}
+
+.outline-p1{
+    border: 1px #A370F7 solid;
+    color: #A370F7;
+}
+
+.outline-p1:hover{
+    color: white;
+    background: #A370F7;
+}
